@@ -1,0 +1,10 @@
+obj
+bin
+appsettings.json
+StudentAssets
+*.db
+*.rdb
+stripe.exe
+publish
+wwwroot
+.vs
